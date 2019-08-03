@@ -13,4 +13,5 @@ This code was written for a device consisting of the following hardware, but the
 * 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS1 (https://www.adafruit.com/product/3387)
 * BME680 - Temperature, Humidity, Pressure and Gas Sensor (https://www.adafruit.com/product/3660)
 * Waterproof DS18B20 Digital temperature sensor + extras (https://www.adafruit.com/product/381)
-
+* Water quality meter (pH, DO, NO3, turbidity, salinity)
+* Digital flow meter 
