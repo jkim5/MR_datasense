@@ -4,7 +4,7 @@ For humans and the natural world alike, surveillance now extends down to the mic
 
 This data sensing device was developed in collaboration with the <a href="https://www.hkw.de/en/programm/projekte/2018/mississippi_an_anthropocene_river/mississippi_an_anthropocene_river_start.php">Mississippi. An Anthropocene River</a> project and <a href="http://mississippistudies.org/">Mississippi Studies</a>.
 
-Works with Dweet.io (for live IOT data sharing), Freeboard.io (live data visualization of Dweet data) and SFTP (for archiving and backup).
+Works with Dweet.io (for live IOT data sharing), Freeboard.io (live data visualization of data) and SFTP (for archiving and backup).
 
 This code was written for a device consisting of the following hardware, but the code is modular, enabling you to remove sensors depending on your needs:
 
