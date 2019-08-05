@@ -6,7 +6,7 @@ This data sensing device was developed in collaboration with the <a href="https:
 
 Works with Dweet.io (for live IOT data sharing), Freeboard.io (live data visualization of data) and SFTP (for archiving and backup).
 
-This code was written for a device consisting of the following hardware, but the code is modular, enabling you to remove sensors depending on your needs:
+This code was written for a device consisting of the following hardware, but the code is modular, allowing you to remove sensors depending on your needs:
 
 * Raspberry Pi Zero (https://www.raspberrypi.org/blog/raspberry-pi-zero/)
 * USGlobalSat BU353-S4 USB GPS Receiver (https://www.thegpsstore.com/USGlobalSat-BU353-S4-USB-GPS-Receiver-P3219.aspx)
