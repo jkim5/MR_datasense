@@ -9,6 +9,7 @@ Works with Dweet.io (for live IOT data sharing), Freeboard.io (live data visuali
 This code was written for a device consisting of the following hardware, but the code is modular, allowing you to remove sensors depending on your needs:
 
 * Raspberry Pi Zero (https://www.raspberrypi.org/blog/raspberry-pi-zero/)
+
 <s>* USGlobalSat BU353-S4 USB GPS Receiver (https://www.thegpsstore.com/USGlobalSat-BU353-S4-USB-GPS-Receiver-P3219.aspx)</s>
 * Ultimate GPS with USB - 66 channel w/10 Hz updates (https://www.adafruit.com/product/4279)
 * 9-DOF Accel/Mag/Gyro+Temp Breakout Board - LSM9DS1 (https://www.adafruit.com/product/3387)
